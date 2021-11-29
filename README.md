@@ -20,6 +20,7 @@ print(s)
 
 ## Output:
 ![GitHub Logo](inv.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
