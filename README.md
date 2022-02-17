@@ -16,7 +16,7 @@ import numpy as np
 A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]]) 
 s=np.linalg.inv(A)
 print(s)
-~~~
+~~~~
 
 ## Output:
 ![GitHub Logo](inv.png)
